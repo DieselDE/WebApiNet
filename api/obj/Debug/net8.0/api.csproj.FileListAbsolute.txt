@@ -146,3 +146,5 @@ C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Microsoft.AspNetC
 C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vincent\Desktop\Coding\WebApiNet\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
